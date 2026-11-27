@@ -10,8 +10,6 @@ export default function Home() {
 
       <p className="mt-4 text-lg">
         Welcome to my personal website.
-        I am a BSIT student who enjoys learning
-        about technology, programming, and web development.
       </p>
 
       <Link

@@ -11,9 +11,7 @@ export default function aboutpage() {
         I am a Bachelor of Science in Information Technology
         student who is passionate about learning technology
         and developing new skills.
-      </p>
-
-      <p className="mt-4 text-lg">
+      
         I enjoy exploring web development and creating
         simple applications that can help people in
         their everyday lives.

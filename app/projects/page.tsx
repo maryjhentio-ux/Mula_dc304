@@ -22,6 +22,7 @@ const projects = [
     description:
       "A personal website created using Next.js and Tailwind CSS.",
   },
+  
 ];
 
 export default function ProjectsPage() {
@@ -31,11 +32,7 @@ export default function ProjectsPage() {
         My Projects
       </h1>
 
-      <p className="mt-4">
-        Here are some of my projects and activities.
-      </p>
-
-      <div className="mt-6 space-y-4">
+       <div className="mt-6 space-y-4">
         {projects.map((project) => (
           <div
             key={project.id}
